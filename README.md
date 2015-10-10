@@ -7,6 +7,8 @@
 * 
 Special thanks to Xiangnan Chen
 
+May 2011.
+
 ### Intro
 
 ![Gif in action](https://github.com/QinMing/Bomberman-Game/blob/master/showcase/while_playing.gif?raw=true)
