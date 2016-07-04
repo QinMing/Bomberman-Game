@@ -2,8 +2,8 @@
 
 ### Authors
 
-* Ming Qin <mingqin@ucsd.edu>
-* Jiaheng Wang <zjlywjh001@zju.edu.cn>
+* Ming Qin
+* Jiaheng Wang
 * 
 Special thanks to Xiangnan Chen
 
