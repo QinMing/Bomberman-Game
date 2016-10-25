@@ -3,7 +3,7 @@
 ### Authors
 
 * Ming Qin
-* Jiaheng Wang
+* Jiaheng Wang [@zjlywjh001](https://github.com/zjlywjh001)
 * 
 Special thanks to Xiangnan Chen
 
